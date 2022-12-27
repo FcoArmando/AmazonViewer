@@ -7,6 +7,18 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
 
+/**
+ * <h1>Report</h1>
+ * Librería que permite crear reportes
+ *
+ * <p>
+ *     Esta librería crea reportes de Movies, Series con sus respectivos chapters y Books
+ *     la único excepción son Magazines que no son visualizables
+ * </p>
+ * @author fco_a
+ * @since 2022
+ * @version 1.0
+ */
 public class Report {
 	
 	private String nameFile;
@@ -32,7 +44,12 @@ public class Report {
 	public void setContent(String content) {
 		this.content = content;
 	}
-	
+
+
+	/**
+	 * <h1>makeReport</h1>
+	 * Se encarga de crear los reportes utilizando los Getters y setters de los atributos de la clase Report
+	 */
 	public void makeReport() {
 		if ( (getNameFile() != null) && (getTitle() != null) && (getContent() != null) ) {
 			//Crear el archivo
