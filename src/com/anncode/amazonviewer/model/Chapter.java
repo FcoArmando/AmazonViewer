@@ -3,6 +3,15 @@ package com.anncode.amazonviewer.model;
 import javax.lang.model.type.ArrayType;
 import java.util.ArrayList;
 
+/**
+ * Hereda de {@link Movie}
+ * @see Film
+ *
+ * @author fco_a
+ * @version 1.1
+ * @since 2022
+ */
+
 public class Chapter extends Movie {
 
 

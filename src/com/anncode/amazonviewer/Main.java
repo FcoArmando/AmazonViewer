@@ -27,8 +27,6 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Film film = new Movie("","","",1,(short) 1999);
-		//Film film2 = new Chapter("", "","",1,(short)1997,1);
 		showMenu();
 
 	}
