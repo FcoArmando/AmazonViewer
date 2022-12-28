@@ -1,0 +1,6 @@
+Ejercicio JDBC API
+
+1. Para poder manejar una base de datos se necesita el Driver Manager.
+2. Connection para conectarse a la base de datos
+3. Prepare statement para generar una query con "SELECT * FROM guitarras where Tipo = 'Premium'"
+4.- Result set para obtener el resultado
