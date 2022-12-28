@@ -4,18 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fcca685-9eb4-49f9-9aad-66bd68438e6d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lambdas/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambdas/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambdas/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambdas/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambdas/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambdas/Lambdas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambdas/src/com/fco/lambdas/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambdas/src/com/fco/lambdas/OnOneListener.java" afterDir="false" />
+    <list default="true" id="033def08-7cd7-4350-a64e-c6f1bb1fb3a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lambdas-practicas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambdas-practicas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambdas-practicas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambdas-practicas/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambdas-practicas/Lambdas-practicas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambdas-practicas/src/IClickeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambdas-practicas/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fco/lambdas/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fco/lambdas/OnOneListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/com/anncode/amazonviewer/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/com/anncode/amazonviewer/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/com/anncode/amazonviewer/model/Film.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/com/anncode/amazonviewer/model/Film.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/com/anncode/amazonviewer/model/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/com/anncode/amazonviewer/model/Movie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practicas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practicas/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/com/anncode/amazonviewer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/anncode/amazonviewer/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/com/anncode/amazonviewer/dao/MovieDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/anncode/amazonviewer/dao/MovieDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/com/anncode/amazonviewer/db/DataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/anncode/amazonviewer/db/DataBase.java" afterDir="false" />
@@ -30,7 +38,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
       </list>
     </option>
@@ -41,7 +48,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2JVku1bNORCAic2BTnqOUGHFPBW" />
+  <component name="ProjectId" id="2JXL1fQTwDrVD6FW3V75QLiI1K3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,20 +57,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/fco_a/javasea/practicas",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/fco_a/javasea/practicas"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6fcca685-9eb4-49f9-9aad-66bd68438e6d" name="Changes" comment="" />
-      <created>1672170858270</created>
+      <changelist id="033def08-7cd7-4350-a64e-c6f1bb1fb3a9" name="Changes" comment="" />
+      <created>1672219269358</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1672170858270</updated>
+      <updated>1672219269358</updated>
     </task>
     <servers />
   </component>
